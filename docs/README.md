@@ -19,9 +19,9 @@ config:
       text: 用代码捏塑数字陶土，在0与1的镜像中追问存在的形状。
       actions:
         -
-          theme: 我的博客
-          link: /blog/
           theme: brand
+          text: 我的博客
+          link: /blog/
         -
           theme: alt
           text: Github →
