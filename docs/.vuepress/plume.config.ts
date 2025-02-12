@@ -39,7 +39,7 @@ export default defineThemeConfig({
   profile: {
     avatar: 'https://avatars.githubusercontent.com/u/45899547?v=4',
     circle: true, // 是否为圆形头像
-    name: 'Jokul',
+    name: '冰川',
     description: ' 那光年之外会是什么',
     // circle: true,
     // location: '',
