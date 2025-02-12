@@ -20,8 +20,8 @@ config:
       actions:
         -
           theme: 我的博客
-          text: 博客
           link: /blog/
+          theme: brand
         -
           theme: alt
           text: Github →
