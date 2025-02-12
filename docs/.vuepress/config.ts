@@ -5,7 +5,7 @@ import { plumeTheme } from 'vuepress-theme-plume'
 export default defineUserConfig({
   base: '/Jokul-blog/',
   lang: 'zh-CN',
-  title: 'Jokul',
+  title: '冰川',
   description: '这是我的博客',
 
   head: [
